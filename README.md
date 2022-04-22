@@ -7,6 +7,8 @@ The setps are as follows:
 3. Generating a multi dimensional heterogenous graph using the data along with these edgelists 
 4. Using the Deep Learning models to generate predictions
 
+The dataset used was the IEEE-CIS Fraud Detection Dataset provided by [Vesta](https://www.vesta.io/) on [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection)
+
 Two RGCN (Relational Graph Convolutional Networks) were developed and tested
 1. Shallow RGCN
 2. Deep RGCN
