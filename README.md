@@ -35,3 +35,6 @@ To run the code, simply run the Jupyter notebooks in this order:
 1. DataPrep
 2. Modelling
 3. Visualization
+
+## References
+[Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library](https://aws.amazon.com/blogs/machine-learning/detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library/)
